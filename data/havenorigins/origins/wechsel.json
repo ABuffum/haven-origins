@@ -1,0 +1,9 @@
+{
+	"icon": {
+		"item": "minecraft:oak_sapling"
+	},
+	"name": "Wechsel",
+	"description": "The whole package.",
+	"order": 0,
+	"impact": 0
+}

@@ -1,0 +1,12 @@
+{
+	"powers": [
+		"origins:fire_immunity"
+	],
+	"icon": {
+		"item": "minecraft:blaze_powder"
+	},
+	"order": 4,
+	"impact": 1,
+	"name": "Fire immunity",
+	"description": "You look upon those burning flames and scorching rivers of lava and you say ha! Not today."
+}

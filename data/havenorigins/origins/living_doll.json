@@ -1,0 +1,18 @@
+{
+	"powers": [
+		"extraorigins:no_stomach",
+		"havenorigins:cotton_guard",
+		"havenorigins:doll_regen",
+		"havenorigins:slow_falling_doll",
+		"extraorigins:bite_sized",
+		"origins:climbing",
+		"extraorigins:jockey",
+		"havenorigins:doll_weakness",
+		"havenorigins:bad_swimmer"
+	],
+	"icon": "minecraft:white_wool",
+	"order": 674,
+	"impact": 3,
+	"name": "Living Doll",
+	"description": "You're a living doll, animated by powerful magic; while you can't use any of that magic yourself, you're still quite the unusual fellow!"
+}

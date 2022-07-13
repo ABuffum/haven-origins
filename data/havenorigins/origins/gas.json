@@ -1,0 +1,13 @@
+{
+	"powers": [
+		"origins:gas_particles"
+	],
+	"icon": {
+		"item": "minecraft:end_crystal"
+	},
+	"order": 0,
+	"impact": 1,
+	"name": "Gaseous being",
+	"description": "Take care to keep your particles together."
+
+}

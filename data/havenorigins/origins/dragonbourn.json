@@ -1,0 +1,16 @@
+{
+	"powers": [
+		"origins:strong_arms",
+		"origins:strong_arms_break_speed",
+		"origins:throw_ender_pearl",
+		"origins:water_vulnerability",
+		"origins:pumpkin_hate",
+		"origins:damage_from_potions",
+		"havenorigins:dragon_death"
+	],
+	"icon": "minecraft:dragon_egg",
+	"order": 674,
+	"impact": 1,
+	"name": "Dragonbourn",
+	"description": "The blood of dragons flows through you."
+}

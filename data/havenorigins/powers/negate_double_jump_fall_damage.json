@@ -1,0 +1,20 @@
+{
+	"type": "origins:active_self",
+	"name": "Fall Breaking Jumps",
+	"description": "Save your ankles from the awful pain of a double jump!",
+	"entity_action": {
+		"type": "origins:set_fall_distance",
+		"fall_distance": 0
+	},
+	"condition": {
+		"type": "origins:resource",
+		"resource": "havenorigins:double_jump",
+		"comparison": ">",
+		"compare_to": 25
+	},
+	"key": {
+		"key": "key.origins.secondary_active",
+		"continuous": true
+	},
+	"hidden": true
+}

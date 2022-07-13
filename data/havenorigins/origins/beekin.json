@@ -1,0 +1,15 @@
+{
+	"powers": [
+		"havenorigins:sting",
+		"havenorigins:nectar",
+		"origins:water_vulnerability",
+		"moborigins:queen_bee"
+	],
+	"icon": {
+		"item": "minecraft:honeycomb"
+	},
+	"order": 3,
+	"impact": 1,
+	"name": "B33 Hybr1d",
+	"description": "Ya like jazz?"
+}

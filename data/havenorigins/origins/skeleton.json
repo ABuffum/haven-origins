@@ -1,0 +1,13 @@
+{
+	"powers": [
+		"havenorigins:wither_immunity",
+		"havenorigins:wither_rose_immunity"
+	],
+	"icon": {
+		"item": "minecraft:bone"
+	},
+	"order": 0,
+	"impact": 1,
+	"name": "Skeleton",
+	"description": "Bones rattle in the distance."
+}

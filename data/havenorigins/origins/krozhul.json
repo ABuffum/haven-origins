@@ -1,0 +1,20 @@
+{
+	"powers": [
+		"havenorigins:hit_harder",
+		"havenorigins:sludge_move",
+		"havenorigins:sludge_blast",
+		"havenorigins:nausea_immunity",
+		"havenorigins:poison_immunity",
+		"havenorigins:wither_immunity",
+		"havenorigins:wither_rose_immunity",
+		"havenorigins:instant_damage_immunity"
+	],
+	"icon": {
+		"item": "minecraft:dead_brain_coral"
+	},
+	"order": 0,
+	"impact": 3,
+	"name": "Krozhul",
+	"description": "Radioactive, gooey, and a personality to match. You're an antagonist!"
+
+}

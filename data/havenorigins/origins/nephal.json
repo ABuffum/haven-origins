@@ -1,0 +1,13 @@
+{
+	"powers": [
+		"havenorigins:double_jump",
+		"havenorigins:negate_double_jump_fall_damage",
+		"origins:shulker_inventory",
+		"origins:more_exhaustion"
+	],
+	"name": "Nephal",
+	"description": "Half angel, half demon, half block game origin.",
+	"order": 1,
+	"icon": "minecraft:ghast_tear",
+	"impact": 3
+}

@@ -1,0 +1,41 @@
+{
+	"replace": true,
+	"order": 0,
+	"enabled": true,
+	"origins": [
+		"origins:human",
+
+		"havenorigins:avian",
+		"havenorigins:beekin",
+		"havenorigins:birdofprey",
+		"havenorigins:clown",
+		"havenorigins:dragonbourn",
+		"havenorigins:enderkin",
+		"havenorigins:fireimmune",
+		"havenorigins:flightlessbird",
+		"havenorigins:gas",
+		"havenorigins:krozhul",
+		"havenorigins:leopard",
+		"havenorigins:living_doll",
+		"havenorigins:lux",
+		"havenorigins:navn",
+		"havenorigins:nephal",
+		"havenorigins:netherspawn",
+		"havenorigins:polar_bear",
+		"havenorigins:skeleton",
+		"havenorigins:slowfaller",
+		"havenorigins:stars",
+		"havenorigins:sylph",
+		"havenorigins:vampire",
+		"havenorigins:vex",
+		"havenorigins:waterbreathing",
+		"havenorigins:watervulnerable",
+		"havenorigins:wechsel"
+	],
+	"allow_random": true,
+	"exclude_random": [
+		"origins:human"
+	],
+	"allow_random_unchoosable": false,
+	"hidden": false
+}

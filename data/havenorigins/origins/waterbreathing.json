@@ -1,0 +1,12 @@
+{
+	"powers": [
+		"origins:lungless"
+	],
+	"icon": {
+		"item": "minecraft:salmon"
+	},
+	"order": 0,
+	"impact": 1,
+	"name": "Lungless"
+
+}

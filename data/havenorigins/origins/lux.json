@@ -1,0 +1,14 @@
+{
+	"powers": [
+		"origins:fire_immunity",
+		"havenorigins:fire_fists",
+		"origins:water_vulnerability"
+	],
+	"icon": {
+		"item": "minecraft:blaze_powder"
+	},
+	"order": 0,
+	"impact": 1,
+	"name": "Nether Prince",
+	"description": "Why aren't people bowing down yet?"
+}

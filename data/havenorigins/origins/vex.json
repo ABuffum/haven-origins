@@ -1,0 +1,16 @@
+{
+	"powers": [
+		"extraorigins:short",
+		"havenorigins:fangs",
+		"havenorigins:phantomize_vex",
+		"havenorigins:phantomize_overlay_vex",
+		"havenorigins:phasing_vex",
+		"havenorigins:invisibility_vex",
+		"origins:launch_into_air"
+	],
+	"icon": "minecraft:totem_of_undying",
+	"order": 674,
+	"impact": 1,
+	"name": "Vex",
+	"description": "A spawn of magic."
+}

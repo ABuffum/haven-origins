@@ -1,0 +1,12 @@
+{
+	"powers": [
+		"havenorigins:confetti_death",
+		"havenorigins:summon_pig",
+		"havenorigins:pacifist"
+	],
+	"name": "Clown",
+	"description": "Often associated with jokes and being so very funny.",
+	"order": 1,
+	"icon": "minecraft:cake",
+	"impact": 3
+}

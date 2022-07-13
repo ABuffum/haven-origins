@@ -1,0 +1,15 @@
+{
+	"powers": [
+		"havenorigins:bite",
+		"origins:slow_falling",
+		"havenorigins:wither_immunity",
+		"havenorigins:wither_rose_immunity"
+	],
+	"icon": {
+		"item": "minecraft:dragon_breath"
+	},
+	"order": 0,
+	"impact": 1,
+	"name": "Vampire",
+	"description": "The undead get hungry too."
+}

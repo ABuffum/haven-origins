@@ -1,0 +1,15 @@
+{
+	"powers": [
+		"havenorigins:reduce_fall_damage",
+		"origins:jump_boost",
+		"origins:tailwind"
+	],
+	"icon": {
+		"item": "minecraft:egg"
+	},
+	"order": 0,
+	"impact": 1,
+	"name": "Flightless Bird",
+	"description": "These small wings aren't just for show! (I lied actually, they are just for show)"
+
+}

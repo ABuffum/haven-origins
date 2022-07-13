@@ -1,0 +1,12 @@
+{
+	"powers": [
+		"origins:water_vulnerability"
+	],
+	"icon": {
+		"item": "minecraft:phantom_membrane"
+	},
+	"order": 2,
+	"impact": 3,
+	"name": "Water vulnerable",
+	"description": "Water ouchy :("
+}

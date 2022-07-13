@@ -1,0 +1,15 @@
+{
+	"powers": [
+		"origins:slow_falling",
+		"havenorigins:reduce_fall_damage",
+		"origins:jump_boost"
+	],
+	"icon": {
+		"item": "minecraft:feather"
+	},
+	"order": 0,
+	"impact": 1,
+	"name": "Avian",
+	"description": "You have small wings, allowing you to catch yourself at heights!"
+
+}

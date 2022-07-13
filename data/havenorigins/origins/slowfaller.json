@@ -1,0 +1,12 @@
+{
+	"powers": [
+		"havenorigins:slow_falling_two"
+	],
+	"icon": {
+		"item": "minecraft:cobweb"
+	},
+	"order": 1,
+	"impact": 1,
+	"name": "Drifter",
+	"description": "Whether it's because you're light as a feather or made of feathers, you drift slowly to the ground."
+}

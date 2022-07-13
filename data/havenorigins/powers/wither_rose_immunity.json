@@ -1,0 +1,9 @@
+{
+  "type": "origins:invulnerability",
+  "damage_condition": {
+	"type": "origins:name",
+	"name": "wither"
+  },
+	"name": "Black rose",
+	"description": "You are immune to the necrotic thorns of the Wither Rose."
+}

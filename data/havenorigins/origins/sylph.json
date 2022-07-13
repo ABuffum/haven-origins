@@ -1,0 +1,13 @@
+{
+	"powers": [
+		"havenorigins:no_hunger",
+		"origins:lungless"
+	],
+	"icon": {
+		"item": "minecraft:rotten_flesh"
+	},
+	"order": 0,
+	"impact": 1,
+	"name": "Mystical bloodline",
+	"description": "You're above the needs of the average person."
+}

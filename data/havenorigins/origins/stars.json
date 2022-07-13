@@ -1,0 +1,15 @@
+{
+	"powers": [
+		"havenorigins:rock_eater",
+		"havenorigins:robot",
+		"havenorigins:wither_immunity",
+		"havenorigins:wither_rose_immunity"
+	],
+	"icon": {
+		"item": "minecraft:amethyst_shard"
+	},
+	"order": 0,
+	"impact": 1,
+	"name": "STARS",
+	"description": "When you saw the pointy rocks you asked is anybody going to eat that? And didn't wait for an answer."
+}

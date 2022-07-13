@@ -1,0 +1,50 @@
+{
+	"type": "origins:launch",
+	"name": "Double Jump",
+	"description": "An extra jump for people who really wish Minecraft was a platformer instead. Triggered automatically when jumping from a height more than 1 block off the ground.",
+	"cooldown": 40,
+	"hud_render": {
+		"should_render": true,
+		"sprite_location": "origins:textures/gui/resource_bar.png",
+		"bar_index": 4,
+		"condition": {
+			"value": true,
+			"type": "origins:constant",
+			"inverted": false
+		}
+	},
+	"condition": {
+		"type": "origins:in_block",
+			"block_condition": {
+			"type": "origins:and",
+			"conditions": [
+				{
+					"type": "origins:movement_blocking",
+					"inverted": true
+				},
+				{
+					"type": "origins:offset",
+					"condition": {
+						"type": "origins:movement_blocking",
+						"inverted": true
+					},
+					"y": 1
+				},
+				{
+					"type": "origins:offset",
+					"condition": {
+						"type": "origins:movement_blocking",
+						"inverted": true
+					},
+					"y": -1
+				}
+			]
+		}
+	},
+	"hidden": false,
+	"speed": 0.5,
+	"key": {
+		"key": "key.origins.secondary_active",
+		"continuous": true
+	}
+}

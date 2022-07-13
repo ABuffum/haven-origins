@@ -1,0 +1,16 @@
+{
+	"powers": [
+		"origins:slow_falling",
+		"havenorigins:reduce_fall_damage",
+		"origins:jump_boost",
+		"havenorigins:raptor_diet"
+	],
+	"icon": {
+		"item": "minecraft:feather"
+	},
+	"order": 0,
+	"impact": 1,
+	"name": "Bird of Prey",
+	"description": "You are a bird of prey, soar and hunt!"
+
+}

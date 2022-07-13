@@ -1,0 +1,13 @@
+{
+	"powers": [
+		"havenorigins:fangs",
+		"origins:elytra"
+	],
+	"icon": {
+		"item": "minecraft:totem_of_undying"
+	},
+	"order": 0,
+	"impact": 1,
+	"name": "Mob... ?",
+	"description": "Your heritage, whatever it is, allows you to summon fangs."
+}

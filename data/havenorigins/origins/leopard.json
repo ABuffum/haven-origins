@@ -1,0 +1,12 @@
+{
+	"powers": [
+		"origins:cat_vision",
+		"origins:fall_immunity",
+		"origins:sprint_jump"
+	],
+	"name": "Leopard",
+	"description": "What if a cat... had spots..?",
+	"order": 1,
+	"icon": "minecraft:gray_wool",
+	"impact": 2
+}
