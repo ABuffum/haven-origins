@@ -1,7 +1,7 @@
 {
 	"powers": [
 		"havenorigins:bite",
-		"origins:slow_falling",
+		"havenorigins:slow_falling",
 		"havenorigins:wither_immunity",
 		"havenorigins:wither_rose_immunity"
 	],

@@ -1,6 +1,6 @@
 {
 	"powers": [
-		"origins:slow_falling",
+		"havenorigins:slow_falling",
 		"havenorigins:reduce_fall_damage",
 		"origins:jump_boost",
 		"havenorigins:raptor_diet"

@@ -6,8 +6,7 @@
 		"havenorigins:nausea_immunity",
 		"havenorigins:poison_immunity",
 		"havenorigins:wither_immunity",
-		"havenorigins:wither_rose_immunity",
-		"havenorigins:instant_damage_immunity"
+		"havenorigins:wither_rose_immunity"
 	],
 	"icon": {
 		"item": "minecraft:dead_brain_coral"
