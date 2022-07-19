@@ -2,7 +2,8 @@
 	"powers": [
 		"origins:cat_vision",
 		"origins:fall_immunity",
-		"origins:sprint_jump"
+		"origins:sprint_jump",
+		"origins:scare_creepers"
 	],
 	"name": "Leopard",
 	"description": "What if a cat... had spots..?",

@@ -1,0 +1,15 @@
+{
+	"powers": [
+		"origins:climbing",
+		"origins:fall_immunity",
+		"havenorigins:bad_swimmer"
+	],
+	"icon": {
+		"item": "minecraft:stone_button"
+	},
+	"order": 0,
+	"impact": 1,
+	"name": "Stone Spriti",
+	"description": "Haven's resident pebble spirit."
+
+}
