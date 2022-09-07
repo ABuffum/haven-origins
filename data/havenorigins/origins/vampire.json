@@ -3,7 +3,8 @@
 		"havenorigins:bite",
 		"havenorigins:slow_falling",
 		"havenorigins:wither_immunity",
-		"havenorigins:wither_rose_immunity"
+		"havenorigins:wither_rose_immunity",
+		"havenorigins:vampire_blood"
 	],
 	"icon": {
 		"item": "minecraft:dragon_breath"

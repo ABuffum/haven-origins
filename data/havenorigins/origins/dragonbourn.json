@@ -6,7 +6,8 @@
 		"origins:water_vulnerability",
 		"origins:pumpkin_hate",
 		"origins:damage_from_potions",
-		"havenorigins:dragon_death"
+		"havenorigins:dragon_death",
+		"havenorigins:dragon_blood"
 	],
 	"icon": "minecraft:dragon_egg",
 	"order": 674,

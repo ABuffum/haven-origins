@@ -3,7 +3,9 @@
 		"havenorigins:predator",
 		"havenorigins:no_hunger",
 		"havenorigins:raw_diet",
-		"origins:natural_armor"
+		"origins:natural_armor",
+		"havenorigins:warm_body",
+		"havenorigins:bear_blood"
 	],
 	"icon": {
 		"item": "minecraft:cod"

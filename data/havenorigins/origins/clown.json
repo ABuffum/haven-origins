@@ -2,8 +2,10 @@
 	"powers": [
 		"havenorigins:confetti_death",
 		"havenorigins:summon_pig",
-		"havenorigins:pacifist",
-		"origins:bad_swimmer"
+		"havenorigins:clown_pacifist",
+		"havenorigins:bad_swimmer_clown",
+		"havenorigins:sugar_water_blood",
+		"origins-classes:sneaky"
 	],
 	"name": "Clown",
 	"description": "Often associated with jokes and being so very funny.",

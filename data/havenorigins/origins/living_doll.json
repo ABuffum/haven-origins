@@ -8,7 +8,8 @@
 		"origins:climbing",
 		"extraorigins:jockey",
 		"havenorigins:doll_weakness",
-		"havenorigins:bad_swimmer"
+		"havenorigins:bad_swimmer",
+		"havenorigins:bloodless"
 	],
 	"icon": "minecraft:white_wool",
 	"order": 674,

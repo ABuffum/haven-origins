@@ -1,0 +1,13 @@
+{
+	"powers": [
+		"extraorigins:bite_sized",
+		"origins:climbing",
+		"extraorigins:jockey",
+		"havenorigins:bloodless"
+	],
+	"icon": "minecraft:pink_tulip",
+	"order": 674,
+	"impact": 3,
+	"name": "Flower Spirit",
+	"description": "There are some who might call you goblin. They would be correct."
+}

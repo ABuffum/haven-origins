@@ -2,14 +2,16 @@
 	"powers": [
 		"origins:climbing",
 		"origins:fall_immunity",
-		"havenorigins:bad_swimmer"
+		"havenorigins:bad_swimmer",
+		"havenorigins:pibble_sized",
+		"havenorigins:warm_body",
+		"havenorigins:rock_eater",
+		"havenorigins:rock_eater_candy",
+		"havenorigins:bloodless"
 	],
-	"icon": {
-		"item": "minecraft:stone_button"
-	},
-	"order": 0,
-	"impact": 1,
-	"name": "Stone Spriti",
-	"description": "Haven's resident pebble spirit."
-
+	"icon": "minecraft:stone_button",
+	"order": 674,
+	"impact": 3,
+	"name": "Stone Spirit",
+	"description": "Rock on little dude!"
 }

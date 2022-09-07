@@ -1,0 +1,14 @@
+{
+	"powers": [
+		"origins:fire_immunity",
+		"havenorigins:august_always_dies",
+		"havenorigins:ichor_blood"
+	],
+	"icon": {
+		"item": "minecraft:blaze_powder"
+	},
+	"order": 4,
+	"impact": 1,
+	"name": "Tiefling",
+	"description": "You will die many times, many ways, but not by fire at least! Also your blood is fucked."
+}

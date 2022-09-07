@@ -9,10 +9,6 @@
 		"modifier": {
 			"operation": "multiply_total",
 			"value": -1
-		},
-		"target_action": {
-			"type": "origins:add_velocity",
-			"z": 1
 		}
 	},
 	"ranged": {
@@ -24,10 +20,6 @@
 		"modifier": {
 			"operation": "multiply_total",
 			"value": -1
-		},
-		"target_action": {
-			"type": "origins:add_velocity",
-			"z": -1
 		}
 	},
 	"name": "Pacifist",

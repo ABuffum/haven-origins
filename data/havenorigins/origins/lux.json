@@ -2,7 +2,8 @@
 	"powers": [
 		"origins:fire_immunity",
 		"havenorigins:fire_fists",
-		"origins:water_vulnerability"
+		"origins:water_vulnerability",
+		"havenorigins:nether_blood"
 	],
 	"icon": {
 		"item": "minecraft:blaze_powder"

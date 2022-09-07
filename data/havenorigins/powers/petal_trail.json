@@ -1,0 +1,10 @@
+{
+	"type": "origins:particle",
+	"particle": {
+		"type": "minecraft:block",
+		"params": "minecraft:pink_tulip"
+	},
+	"frequency": 4,
+	"name": "Petal Trail",
+	"description": "It's springtime wherever you go!"
+}

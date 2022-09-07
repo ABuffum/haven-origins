@@ -3,7 +3,8 @@
 		"havenorigins:sting",
 		"havenorigins:nectar",
 		"origins:water_vulnerability",
-		"moborigins:queen_bee"
+		"moborigins:queen_bee",
+		"havenorigins:bee_enderman_blood"
 	],
 	"icon": {
 		"item": "minecraft:honeycomb"

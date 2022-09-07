@@ -1,0 +1,17 @@
+{
+	"powers": [
+		"havenorigins:reduce_fall_damage",
+		"origins:jump_boost",
+		"origins:tailwind",
+		"havenorigins:bunny_jump",
+		"havenorigins:negate_double_jump_fall_damage",
+		"havenorigins:rabbit_blood"
+	],
+	"icon": {
+		"item": "minecraft:rabbit_foot"
+	},
+	"order": 3,
+	"impact": 1,
+	"name": "Bunny",
+	"description": "Hop to it!"
+}

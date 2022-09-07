@@ -1,0 +1,10 @@
+{
+	"type": "origins:particle",
+	"particle": {
+		"type": "minecraft:block",
+		"params": "minecraft:oak_sapling"
+	},
+	"frequency": 4,
+	"name": "Forest Trail",
+	"description": "If your stature didn't scream \"Friend of the Forest\" this will!"
+}

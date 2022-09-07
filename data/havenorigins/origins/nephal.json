@@ -3,7 +3,9 @@
 		"havenorigins:double_jump",
 		"havenorigins:negate_double_jump_fall_damage",
 		"origins:shulker_inventory",
-		"origins:more_exhaustion"
+		"origins:more_exhaustion",
+		"havenorigins:warm_body",
+		"havenorigins:nephal_blood"
 	],
 	"name": "Nephal",
 	"description": "Half angel, half demon, half block game origin.",

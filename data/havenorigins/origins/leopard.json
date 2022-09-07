@@ -3,7 +3,8 @@
 		"origins:cat_vision",
 		"origins:fall_immunity",
 		"origins:sprint_jump",
-		"origins:scare_creepers"
+		"origins:scare_creepers",
+		"havenorigins:feline_blood"
 	],
 	"name": "Leopard",
 	"description": "What if a cat... had spots..?",

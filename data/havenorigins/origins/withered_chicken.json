@@ -1,0 +1,18 @@
+{
+	"powers": [
+		"havenorigins:reduce_fall_damage",
+		"origins:jump_boost",
+		"origins:tailwind",
+		"origins:more_exhaustion",
+		"havenorigins:cannot_sleep",
+		"havenorigins:avian_blood"
+	],
+	"icon": {
+		"item": "minecraft:egg"
+	},
+	"order": 0,
+	"impact": 2,
+	"name": "Withered Chicken",
+	"description": "Fucked around. Found out."
+
+}

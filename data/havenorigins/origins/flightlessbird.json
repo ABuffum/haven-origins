@@ -2,7 +2,8 @@
 	"powers": [
 		"havenorigins:reduce_fall_damage",
 		"origins:jump_boost",
-		"origins:tailwind"
+		"origins:tailwind",
+		"havenorigins:avian_blood"
 	],
 	"icon": {
 		"item": "minecraft:egg"

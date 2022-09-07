@@ -2,7 +2,8 @@
 	"powers": [
 		"havenorigins:slow_falling",
 		"havenorigins:reduce_fall_damage",
-		"origins:jump_boost"
+		"origins:jump_boost",
+		"havenorigins:avian_blood"
 	],
 	"icon": {
 		"item": "minecraft:feather"

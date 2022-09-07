@@ -1,0 +1,13 @@
+{
+	"powers": [
+		"havenorigins:irys_sized",
+		"origins:climbing",
+		"extraorigins:jockey",
+		"havenorigins:bloodless"
+	],
+	"icon": "minecraft:torch",
+	"order": 674,
+	"impact": 3,
+	"name": "Light Spirit",
+	"description": "Our little sunshine"
+}

@@ -1,0 +1,10 @@
+{
+	"powers": [
+		"havenorigins:bloodless"
+	],
+	"icon": "minecraft:moss_block",
+	"order": 674,
+	"impact": 3,
+	"name": "Forest Spirit",
+	"description": "50% moss, 50% massive, 100% friend."
+}

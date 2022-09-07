@@ -1,7 +1,7 @@
 {
 	"type": "origins:launch",
 	"name": "Double Jump",
-	"description": "An extra jump for people who really wish Minecraft was a platformer instead. Triggered automatically when jumping from a height more than 1 block off the ground.",
+	"description": "An extra jump for people who really wish Minecraft was a platformer instead.",
 	"cooldown": 40,
 	"hud_render": {
 		"should_render": true,

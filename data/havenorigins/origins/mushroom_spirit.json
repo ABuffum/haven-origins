@@ -1,0 +1,13 @@
+{
+	"powers": [
+		"extraorigins:bite_sized",
+		"origins:climbing",
+		"extraorigins:jockey",
+		"havenorigins:bloodless"
+	],
+	"icon": "minecraft:red_mushroom",
+	"order": 674,
+	"impact": 3,
+	"name": "Mushroom Spirit",
+	"description": "There's always so muchroom for a mushroom <3"
+}

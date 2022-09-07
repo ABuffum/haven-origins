@@ -1,6 +1,7 @@
 {
 	"powers": [
-		"origins:gas_particles"
+		"origins:gas_particles",
+		"havenorigins:bloodless"
 	],
 	"icon": {
 		"item": "minecraft:end_crystal"

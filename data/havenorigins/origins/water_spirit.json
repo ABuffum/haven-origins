@@ -1,0 +1,13 @@
+{
+	"powers": [
+		"havenorigins:dew_sized",
+		"origins:climbing",
+		"extraorigins:jockey",
+		"havenorigins:bloodless"
+	],
+	"icon": "minecraft:water_bucket",
+	"order": 674,
+	"impact": 3,
+	"name": "Water Spirit",
+	"description": "There's a little bit of you in every little raindrop."
+}

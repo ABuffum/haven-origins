@@ -6,7 +6,8 @@
 		"havenorigins:phantomize_overlay_vex",
 		"havenorigins:phasing_vex",
 		"havenorigins:invisibility_vex",
-		"origins:launch_into_air"
+		"origins:launch_into_air",
+		"havenorigins:vex_blood"
 	],
 	"icon": "minecraft:totem_of_undying",
 	"order": 674,

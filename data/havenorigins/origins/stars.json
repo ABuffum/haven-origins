@@ -1,9 +1,11 @@
 {
 	"powers": [
 		"havenorigins:rock_eater",
+		"havenorigins:rock_eater_candy",
 		"havenorigins:robot",
 		"havenorigins:wither_immunity",
-		"havenorigins:wither_rose_immunity"
+		"havenorigins:wither_rose_immunity",
+		"havenorigins:bloodless"
 	],
 	"icon": {
 		"item": "minecraft:amethyst_shard"

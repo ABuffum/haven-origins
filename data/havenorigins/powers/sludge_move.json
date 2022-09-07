@@ -4,7 +4,7 @@
 		"type": "origins:execute_command",
 		"command": "function havenorigins:sludge_move"
 	},
-	"cooldown": 160,
+	"cooldown": 240,
 	"hud_render": {
 		"should_render": true,
 		"sprite_location": "origins:textures/gui/resource_bar.png",
