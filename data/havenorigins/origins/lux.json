@@ -3,7 +3,9 @@
 		"origins:fire_immunity",
 		"havenorigins:fire_fists",
 		"origins:water_vulnerability",
-		"havenorigins:nether_blood"
+		"havenorigins:nether_blood",
+		"havenorigins:coal_eater",
+		"havenorigins:charcoal_eater"
 	],
 	"icon": {
 		"item": "minecraft:blaze_powder"

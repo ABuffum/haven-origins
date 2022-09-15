@@ -1,6 +1,7 @@
 {
 	"powers": [
-		"origins:lungless"
+		"origins:lungless",
+		"havenorigins:fish_blood"
 	],
 	"icon": {
 		"item": "minecraft:salmon"

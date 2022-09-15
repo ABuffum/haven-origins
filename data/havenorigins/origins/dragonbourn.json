@@ -7,7 +7,8 @@
 		"origins:pumpkin_hate",
 		"origins:damage_from_potions",
 		"havenorigins:dragon_death",
-		"havenorigins:dragon_blood"
+		"havenorigins:dragon_blood",
+		"havenorigins:chorus_tp"
 	],
 	"icon": "minecraft:dragon_egg",
 	"order": 674,
