@@ -1,4 +1,7 @@
 {
+	"powers": [
+		"havenorigins:wechsel_blood"
+	],
 	"icon": {
 		"item": "minecraft:oak_sapling"
 	},
