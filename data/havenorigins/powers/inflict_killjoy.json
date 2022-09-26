@@ -8,6 +8,7 @@
 		"type": "origins:execute_command",
     	"command": "effect give @p haven:killjoy 30"
 	},
+	"cooldown": 0,
 	"name": "Tomato Touché",
 	"description": "Why are you booing me? I'm funny!"
 }

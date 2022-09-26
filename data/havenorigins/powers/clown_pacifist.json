@@ -43,7 +43,8 @@
 		"damage_condition": {
 			"type": "origins:projectile",
 			"projectile": "minecraft:egg"
-		}
+		},
+		"cooldown": 0
 	},
 	"snowballs": {
 		"type": "origins:target_action_on_hit",
@@ -58,7 +59,8 @@
 		"damage_condition": {
 			"type": "origins:projectile",
 			"projectile": "minecraft:snowball"
-		}
+		},
+		"cooldown": 0
 	},
 	"tomatoes": {
 		"type": "origins:target_action_on_hit",
@@ -73,7 +75,8 @@
 		"damage_condition": {
 			"type": "origins:projectile",
 			"projectile": "haven:throwable_tomato"
-		}
+		},
+		"cooldown": 0
 	},
 	"name": "Circus Pacifist",
 	"description": "Hurting people makes you sad. Moving people makes you happy."

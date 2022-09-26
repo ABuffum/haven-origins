@@ -1,7 +1,8 @@
 {
 	"powers": [
 		"havenorigins:no_hunger",
-		"origins:lungless"
+		"origins:lungless",
+		"havenorigins:fish_blood"
 	],
 	"icon": {
 		"item": "minecraft:rotten_flesh"

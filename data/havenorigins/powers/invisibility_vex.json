@@ -5,5 +5,7 @@
   "condition": {
     "type": "origins:power_active",
     "power": "extraorigins:phantomize_vex"
-  }
+  },
+  "name": "Invisibility",
+  "description": "While phantomized, you are invisible."
 }

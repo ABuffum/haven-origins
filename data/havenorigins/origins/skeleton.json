@@ -2,6 +2,7 @@
 	"powers": [
 		"havenorigins:wither_immunity",
 		"havenorigins:wither_rose_immunity",
+		"havenorigins:spooky_move",
 		"havenorigins:bloodless"
 	],
 	"icon": {
