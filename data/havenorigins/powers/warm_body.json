@@ -14,6 +14,9 @@
 			"name": "freeze.player"
 		}
 	},
+	"dontfreeze": {
+		"type": "haven:unfreezing"
+	},
 	"name": "Warm Body",
 	"description": "The cold never bothered you anyway."
 }
