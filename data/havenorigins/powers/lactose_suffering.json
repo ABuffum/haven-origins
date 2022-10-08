@@ -1,8 +1,7 @@
 {
 	"type": "haven:lactose_intolerant",
-	"takeDamage": true,
-	"hungerDuration": 400,
-	"hungerAmplifier": 2,
+	"hunger_duration": 400,
+	"hunger_amplifier": 2,
 	"damage": 2,
 	"name": "Lactose Suffering",
 	"description": "Milk makes more than just your tummy hurt"

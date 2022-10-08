@@ -1,7 +1,5 @@
 {
 	"type": "haven:lactose_intolerant",
-	"hungerDuration": 400,
-	"hungerAmplifier": 1,
 	"name": "Lactose Intolerant",
 	"description": "Milk makes your tummy hurt"
 }

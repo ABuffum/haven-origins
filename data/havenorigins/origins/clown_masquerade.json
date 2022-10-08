@@ -1,0 +1,17 @@
+{
+	"powers": [
+		"havenorigins:confetti_death",
+		"havenorigins:summon_pig",
+		"havenorigins:clown_pacifist",
+		"havenorigins:bad_swimmer_clown",
+		"havenorigins:sugar_water_blood",
+		"origins-classes:sneaky",
+		"havenorigins:nausea_immunity",
+		"havenorigins:blindness_immunity"
+	],
+	"name": "Clown (Masquerade version)",
+	"description": "Often associated with jokes and being so very funny.",
+	"order": 1,
+	"icon": "minecraft:cake",
+	"impact": 3
+}

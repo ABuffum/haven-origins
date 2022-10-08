@@ -11,6 +11,7 @@
 		"havenorigins:bunny",
 		"havenorigins:carnation",
 		"havenorigins:clown",
+		"havenorigins:clown_masquerade",
 		"havenorigins:dragonbourn",
 		"havenorigins:enderkin",
 		"havenorigins:fireimmune",
@@ -28,6 +29,7 @@
 		"havenorigins:nephal",
 		"havenorigins:netherspawn",
 		"havenorigins:polar_bear",
+		"havenorigins:sheep_spirit",
 		"havenorigins:skeleton",
 		"havenorigins:slowfaller",
 		"havenorigins:stars",
@@ -39,6 +41,7 @@
 		"havenorigins:water_spirit",
 		"havenorigins:waterbreathing",
 		"havenorigins:watervulnerable",
+		"havenorigins:wechsel_rotting",
 		"havenorigins:wechsel",
 		"havenorigins:withered_chicken"
 	],

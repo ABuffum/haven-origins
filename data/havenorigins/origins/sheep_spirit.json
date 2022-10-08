@@ -1,0 +1,14 @@
+{
+	"powers": [
+		"origins:climbing",
+		"origins:fall_immunity",
+		"havenorigins:little_sheep",
+		"havenorigins:bloodless",
+		"extraorigins:jockey"
+	],
+	"icon": "minecraft:stone_button",
+	"order": 674,
+	"impact": 3,
+	"name": "Sheep Spirit",
+	"description": "You are now and will always be Our Friend"
+}

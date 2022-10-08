@@ -1,0 +1,13 @@
+{
+	"powers": [
+		"havenorigins:wechsel_blood",
+		"havenorigins:rotting_bones"
+	],
+	"icon": {
+		"item": "minecraft:oak_sapling"
+	},
+	"name": "Wechsel (Punished)",
+	"description": "For the crime of hubby hurting, you must suffer bone-hurting disease!",
+	"order": 0,
+	"impact": 0
+}

@@ -1,0 +1,8 @@
+{
+	"type": "origins:effect_immunity",
+	"effects": [
+		"minecraft:blindness"
+	],
+	"name": "Blindness Immunity",
+	"description": "Eyes like a hawk that can't go blind!"
+}

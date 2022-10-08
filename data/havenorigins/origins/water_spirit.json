@@ -3,6 +3,7 @@
 		"havenorigins:dew_sized",
 		"origins:climbing",
 		"extraorigins:jockey",
+		"havenorigins:slow_falling_two",
 		"havenorigins:bloodless"
 	],
 	"icon": "minecraft:water_bucket",
