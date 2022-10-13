@@ -6,7 +6,7 @@
 		"havenorigins:bloodless",
 		"extraorigins:jockey"
 	],
-	"icon": "minecraft:stone_button",
+	"icon": "minecraft:shears",
 	"order": 674,
 	"impact": 3,
 	"name": "Sheep Spirit",

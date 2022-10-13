@@ -2,6 +2,7 @@
 	"powers": [
 		"havenorigins:no_hunger",
 		"origins:lungless",
+		"havenorigins:drink_blood",
 		"havenorigins:fish_blood"
 	],
 	"icon": {

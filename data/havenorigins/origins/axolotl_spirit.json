@@ -1,0 +1,15 @@
+{
+	"powers": [
+		"origins:climbing",
+		"origins:fall_immunity",
+		"havenorigins:little_pusys",
+		"havenorigins:bloodless",
+		"origins:lungless",
+		"extraorigins:jockey"
+	],
+	"icon": "minecraft:axolotl_bucket",
+	"order": 674,
+	"impact": 3,
+	"name": "Axolotl Spirit",
+	"description": "We love you too!!!"
+}
