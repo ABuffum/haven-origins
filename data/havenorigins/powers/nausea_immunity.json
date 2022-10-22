@@ -1,8 +1,6 @@
 {
 	"type": "origins:effect_immunity",
-	"effects": [
-		"minecraft:nausea"
-	],
+	"effects": "minecraft:nausea",
 	"name": "Nausea Immunity",
 	"description": "Your tummy stronk"
 }

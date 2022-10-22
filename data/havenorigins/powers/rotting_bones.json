@@ -6,7 +6,7 @@
     "effects": {
 		"effect": "haven:bone_rot",
 		"is_ambient": true,
-		"show_particles": true,
+		"show_particles": false,
 		"show_icon": true
 	},
 	"condition": {

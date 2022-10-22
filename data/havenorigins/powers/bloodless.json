@@ -11,6 +11,10 @@
 			"name": "bloodLoss"
 		}
 	},
+	"effect_immunity": {
+		"type": "origins:effect_immunity",
+		"effects": "haven:bleeding"
+	},
 	"name": "Bloodless",
 	"description": "You don't have blood. You're special that way!"
 }

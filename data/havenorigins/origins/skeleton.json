@@ -3,7 +3,9 @@
 		"havenorigins:wither_immunity",
 		"havenorigins:wither_rose_immunity",
 		"havenorigins:spooky_move",
-		"havenorigins:bloodless"
+		"havenorigins:bloodless",
+		"havenorigins:eat_poppy_seeds",
+		"havenorigins:eat_poppy_petals"
 	],
 	"icon": {
 		"item": "minecraft:bone"
