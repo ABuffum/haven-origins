@@ -3,6 +3,7 @@
 		"havenorigins:irys_sized",
 		"origins:climbing",
 		"extraorigins:jockey",
+		"havenorigins:glow_skin_15",
 		"havenorigins:bloodless"
 	],
 	"icon": "minecraft:torch",
